@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Victor Y. Tsukamoto
+- 👀 I’m interested in web development & studying tech stuffs
+- 🌱 I’m currently learning HTML, CSS & JS.
+- 💞️ I’m looking to collaborate on Web Development projects.
+- 📫 You can contact me in my email: Victortsuka@hotmail.com
